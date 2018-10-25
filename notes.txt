@@ -1,0 +1,1 @@
+Risidual sum of squares (RSS)
